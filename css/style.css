@@ -1,0 +1,99 @@
+.navbar{
+	margin-bottom: 0;
+}
+
+.navbar-default{
+	background-color: #DC143C;
+}
+
+.navbar-default .navbar-brand{
+	color: white; 
+}
+
+.navbar-default .navbar-nav li a {
+    color: white;
+}
+
+.row{
+	height: 100%;
+}
+
+.discWrapp{
+	height: 100%;
+}
+
+.cont4disc{
+	width: 100%;
+	background: url(../img/bcg.jpg); 
+	background-size: cover;
+	height: 100vh;
+}
+
+.discProject{
+	background-color: white;
+	width:40% ;
+	margin: auto;
+	position: relative;
+	padding: 7px;
+	top: 50%;
+	transform: translateY(-50%);
+	border-radius: 10px;
+}
+
+.discProject h1 span{
+	color:blue;
+}
+
+.discProject h1{
+	font-weight: 600;
+}
+
+.contactWrapp{
+	height: 100%;
+	
+}
+
+.leftContactWrapp{
+	float: left;
+}
+
+.cont4Contacts{
+	width: 100%;
+	background-size: cover;
+	height: 60vh;
+	background-color:white ;
+}
+
+.social-links .fa{
+	font-size: 50px;
+}
+
+.social-links{
+	list-style: none;
+	margin-top: 50px;
+}
+
+.social-links li{
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.list-icons li{
+	font-size: 20px;
+}
+
+.large{
+	font-size: 20px;
+}
+
+.leftContactWrapp{
+	margin-left:30px;
+}
+
+.rightContactWrapp{
+	float: right;
+}
+
+.contactWrapp{
+	margin-top: 50px;
+}
